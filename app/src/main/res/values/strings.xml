@@ -2,4 +2,9 @@
     <string name="app_name">SeaBattleApp</string>
     <string name="game_name">SeaBattleOnline</string>
     <string name="start_button">START</string>
+    <string name="peer_list">Peer list ⇓</string>
+    <string name="device">Device: </string>
+    <string name="no_name_device">NoNameDevice</string>
+    <string name="no_address">NoAddress</string>
+    <string name="address">Address: </string>
 </resources>

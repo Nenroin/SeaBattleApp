@@ -2,4 +2,8 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="star_button_background">#7DD8FF</color>
+    <color name="star_button_text">#0078AC</color>
+    <color name="background_gradient_color_start">#52B5FC</color>
+    <color name="background_gradient_color_end">#0094FD</color>
 </resources>
